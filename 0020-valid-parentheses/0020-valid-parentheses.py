@@ -1,8 +1,8 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        # dicts ={ '{':'}',}
         mapping = {")": "(", "}": "{", "]": "["}
+
         for char in s:
             if char in "([{":
                 stack.append(char)
@@ -14,5 +14,3 @@ class Solution:
                     return False
 
         return not stack
-
-        
