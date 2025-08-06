@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0742-to-lower-case) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Stack
 |  |
