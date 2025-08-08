@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0944-smallest-range-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0944-smallest-range-i) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
