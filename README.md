@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0944-smallest-range-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0944-smallest-range-i) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0561-array-partition) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
