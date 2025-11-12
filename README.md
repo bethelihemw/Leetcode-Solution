@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0742-to-lower-case) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Linked List
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0944-smallest-range-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1013-fibonacci-number) |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
