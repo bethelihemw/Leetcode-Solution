@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0742-to-lower-case) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 ## Math
 |  |
