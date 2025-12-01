@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
