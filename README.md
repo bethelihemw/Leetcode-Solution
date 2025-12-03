@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [0944-smallest-range-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0944-smallest-range-i) |
 | [1051-height-checker](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1051-height-checker) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1051-height-checker) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sliding Window
 |  |
 | ------- |
