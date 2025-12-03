@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0742-to-lower-case) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1051-height-checker) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1122-relative-sort-array) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0506-relative-ranks) |
 ## Monotonic Stack
 |  |
@@ -171,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
