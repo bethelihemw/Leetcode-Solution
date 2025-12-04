@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0944-smallest-range-i) |
 | [1051-height-checker](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1122-relative-sort-array) |
+| [1539-kth-missing-positive-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1539-kth-missing-positive-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 ## Greedy
 |  |
 | ------- |
