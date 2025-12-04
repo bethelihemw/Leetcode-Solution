@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Linked List
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0944-smallest-range-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1013-fibonacci-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
