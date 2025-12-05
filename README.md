@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1122-relative-sort-array) |
 | [1539-kth-missing-positive-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
@@ -200,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
