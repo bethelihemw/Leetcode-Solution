@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1122-relative-sort-array) |
 | [1539-kth-missing-positive-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2073-time-needed-to-buy-tickets](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
+| [2073-time-needed-to-buy-tickets](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Linked List
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
