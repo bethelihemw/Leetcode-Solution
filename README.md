@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0944-smallest-range-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0944-smallest-range-i) |
@@ -116,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
