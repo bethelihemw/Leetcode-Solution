@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
