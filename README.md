@@ -192,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -205,10 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
