@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0258-add-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/bethelihemw/Leetcode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0944-smallest-range-i](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/bethelihemw/Leetcode-Solution/tree/master/1013-fibonacci-number) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0183-customers-who-never-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bethelihemw/Leetcode-Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
